@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm JeniL</h1>
 <h3 align="center">Android Dev in Progress | F1 Fanatic + Code Crafter | Computer Engineering Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JenilMacwan&label=Profile%20views&color=0e75b6&style=flat" alt="JenilMacwan" />
-</p>
-
 ---
 
 - 📱 I’m currently building Android apps using **Kotlin**, learning Jetpack libraries, and improving UI/UX fluency  
