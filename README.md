@@ -43,4 +43,4 @@
 
 ### ⚡ Fun Fact
 
-> I believe fast apps deserve fast cars — and I'm coding both one screen at a time 🏎️✨
+> I believe fast cars deserve fast app — and I'm coding both one screen at a time 🏎️✨
