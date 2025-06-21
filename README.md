@@ -9,7 +9,7 @@
 
 ## 🚧 What I'm Working On
 - 📱 Building modern Android apps with **Kotlin**, Jetpack, and Material Design  
-- 🏎️ Developing real-time F1 APIs with **Python + Flask** (check out [F1 Live API](./f1-live-api))  
+- 🏎️ Developing real-time F1 APIs with **Python + Flask** (check out [F1 Live API](https://github.com/JenilMacwan/f1-live-api))  
 - 🎯 Improving my app structure knowledge using MVVM and clean architecture
 
 ---
