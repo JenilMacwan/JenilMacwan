@@ -4,9 +4,7 @@
 ---
 
 - 📱 I’m currently building Android apps using **Kotlin**, learning Jetpack libraries, and improving UI/UX fluency  
-- 🧠 Exploring Gemini API + Firebase in Android development  
-- 🏁 Creator of [F1 Live API](https://github.com/JenilMacwan/f1-live-api) — live race data, timing & weather  
-- 📂 Built [DOCSHARE](https://github.com/JenilMacwan) — a Java-based student–faculty document sharing app  
+- 🧠 Exploring Gemini API + Firebase in Android development    
 - 🌱 Learning never stops — Clean architecture, MVVM, Compose coming up next  
 - 🤝 Open to collaboration on Android, F1 tech, or cool side projects!
 
