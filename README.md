@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hey there, I’m Jenil Macwan </h1>
 
 🎓 Computer Engineering Student & Passionate Android Developer  
-🏁 Motorsport meets code — I develope real-time F1 dashboards and APIs  
+🏁 Motorsport meets code — I develop real-time F1 dashboards and APIs  
 📱 Currently focusing on Android development with **Kotlin**, crafting polished UIs and robust app architectures  
 🌍 Based in India | Fuelled by curiosity, creativity, and a love for speed
 
