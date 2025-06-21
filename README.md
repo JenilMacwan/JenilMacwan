@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Kotlin Android apps**
 - 🌱 I’m learning **Jetpack Compose**, **MVVM architecture**, and **Firebase integration**
-- 🏁 I recently built an [F1 Live API](https://github.com/JeniL/f1-live-api) and a document-sharing app [DOCSHARE](#)
+- 🏁 I recently built an [F1 Live API](https://github.com/JenilMacwan/f1-live-api) and a document-sharing app [DOCSHARE](#)
 - 📫 Reach me at: **jenilmacwan29@gmail.com**
 - ⚡ Fun fact: I love mixing fast code with fast cars!
 
