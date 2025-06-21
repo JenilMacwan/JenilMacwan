@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm JeniL</h1>
+<h1 align="center">Hi 👋, I'm Jenil Macwan</h1>
 <h3 align="center">Android Developer | F1 Data Enthusiast | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jenil&label=Profile%20views&color=0e75b6&style=flat" alt="jenil" />
+  <img src="https://komarev.com/ghpvc/?username=JenilMacwan&label=Profile%20views&color=0e75b6&style=flat" alt="Jenil" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Kotlin Android apps**
 - 🌱 I’m learning **Jetpack Compose**, **MVVM architecture**, and **Firebase integration**
 - 🏁 I recently built an [F1 Live API](https://github.com/JeniL/f1-live-api) and a document-sharing app [DOCSHARE](#)
-- 📫 Reach me at: **your_email@example.com**
+- 📫 Reach me at: **jenilmacwan29@gmail.com**
 - ⚡ Fun fact: I love mixing fast code with fast cars!
 
 ---
