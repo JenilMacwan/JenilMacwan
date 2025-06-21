@@ -1,46 +1,35 @@
-# 👋 Hey there, I’m JeniL
+<h1 align="center">Hi 👋, I'm JeniL</h1>
+<h3 align="center">Android Developer | F1 Data Enthusiast | Computer Engineering Student</h3>
 
-🎓 Aspiring Android Developer • Computer Engineering Student  
-🏁 Motorsport meets code — where I turn Formula 1 data into live dashboards and APIs  
-📱 Currently crafting native Android apps using **Kotlin** and diving deeper into UI/UX & app architecture  
-🌍 Based in India | Fuelled by learning, curiosity, and caffeine
-
----
-
-## 🚧 What I'm Working On
-- 📱 Building modern Android apps with **Kotlin**, Jetpack, and Material Design  
-- 🏎️ Developing real-time F1 APIs with **Python + Flask** (check out [F1 Live API](https://github.com/JenilMacwan/f1-live-api))  
-- 🎯 Improving my app structure knowledge using MVVM and clean architecture
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jenil&label=Profile%20views&color=0e75b6&style=flat" alt="jenil" />
+</p>
 
 ---
 
-## 🧰 Tools & Tech I Use
-**Languages:** Kotlin, Java, Python  
-**Mobile Dev:** Android Studio, XML, Jetpack, Material UI  
-**Web Basics:** HTML, CSS  
-**Backend/Tools:** Firebase, Flask, FastF1, REST APIs, Gemini API  
-**Dev Tools:** Git, GitHub, Postman, VS Code  
+- 🔭 I’m currently working on **Kotlin Android apps**
+- 🌱 I’m learning **Jetpack Compose**, **MVVM architecture**, and **Firebase integration**
+- 🏁 I recently built an [F1 Live API](https://github.com/JeniL/f1-live-api) and a document-sharing app [DOCSHARE](#)
+- 📫 Reach me at: **your_email@example.com**
+- ⚡ Fun fact: I love mixing fast code with fast cars!
 
 ---
 
-## 🛠️ Projects
+### 🛠️ Languages and Tools
 
-- 📱 **DOCSHARE – Student-Faculty File Sharing App**  
-  _A secure Android app for sharing documents between students and faculty, built as a college project._  
-  → Developed using **Java**, **Firebase Realtime Database**, and integrated the **Gemini API** for smart features like document tagging or content suggestions.
-
-- 🏁 **F1 Live API**  
-  _A real-time race tracker and info dashboard built with Flask, FastF1, and OpenF1 APIs_  
-  → Race data, driver standings, session weather, and live telemetry
-
----
-
-## ✨ Goals
-
-- 🚀 Build and publish a production-ready **Kotlin-based Android app**  
-- 🔁 Contribute to open source Android or Python projects  
-- 💡 Create tutorials or videos to share my learning journey with others
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
 ---
 
-> 🔗 Let’s connect through code – check out my projects and follow my journey here on GitHub!
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jenil&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenil&theme=tokyonight" />
+</p>
