@@ -7,12 +7,22 @@
 
 ---
 
-- 📱 I’m currently building Android apps using **Kotlin**, learning Jetpack libraries, and improving UI/UX fluency.  
+- 📱 I’m currently building Android apps using **Kotlin**, learning Jetpack libraries, and improving UI/UX fluency  
 - 🧠 Exploring Gemini API + Firebase in Android development  
 - 🏁 Creator of [F1 Live API](https://github.com/JenilMacwan/f1-live-api) — live race data, timing & weather  
-- 📂 Built [DOCSHARE](https://github.com/JenilMacwan) — a Java-based student–faculty document sharing app with firebase and Gemini API For Query Solving
+- 📂 Built [DOCSHARE](https://github.com/JenilMacwan) — a Java-based student–faculty document sharing app  
 - 🌱 Learning never stops — Clean architecture, MVVM, Compose coming up next  
 - 🤝 Open to collaboration on Android, F1 tech, or cool side projects!
+
+---
+
+### 📌 Featured Projects
+
+- 🏎️ [F1 Live API](https://github.com/JenilMacwan/f1-live-api)  
+  Real-time race tracking using FastF1, Flask, and OpenF1 APIs.
+
+- 📲 [DOCSHARE](https://github.com/JenilMacwan)  
+  Android app for seamless student–faculty document sharing using Java, Firebase & Gemini API.
 
 ---
 
@@ -37,10 +47,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JenilMacwan&show_icons=true&theme=tokyonight" alt="JenilMacwan's GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JenilMacwan&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilMacwan&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
+
+---
+
+### 📬 Get in Touch
+
+- 📧 Email: jenilmacwan29@gmail.com  
 
 ---
 
 ### ⚡ Fun Fact
 
-> I believe fast cars deserve fast app — and I'm coding both one screen at a time 🏎️✨
+> I believe fast apps deserve fast cars — and I'm coding both one screen at a time 🏎️✨
