@@ -10,7 +10,6 @@
 ## 🚧 What I'm Working On
 
 - 📱 Building modern Android apps using **Kotlin**, Jetpack, and Material Design  
-- 🏎️ Developing live race tracking systems with **Python + Flask** ([see F1 Live API](https://github.com/JenilMacwan/f1-live-api))  
 - 🎯 Learning advanced concepts like MVVM, dependency injection, and performance optimization
 
 ---
@@ -39,6 +38,7 @@
   _A real-time F1 data API and dashboard backend built entirely with Flask and FastF1_  
   → Delivers live session data, standings, weather forecasts & telemetry
 
+- AND MORE --
 ---
 
 ## 📊 GitHub Stats
