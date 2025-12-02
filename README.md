@@ -45,10 +45,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JenilMacwan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br><br>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenilMacwan&theme=tokyonight" alt="GitHub Contribution Graph" />
 
 <br><br>
