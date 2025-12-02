@@ -43,13 +43,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JenilMacwan&show_icons=true&theme=tokyonight" alt="JenilMacwan's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JenilMacwan&theme=tokyonight" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilMacwan&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JenilMacwan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenilMacwan&theme=tokyonight" alt="GitHub Contribution Graph" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JenilMacwan&theme=tokyonight" alt="Most Languages" />
+
+</div>
 
 ---
 
