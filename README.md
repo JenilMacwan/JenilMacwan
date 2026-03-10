@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hey there, I’m Jenil Macwan </h1>
 
 🎓 Computer Engineering Student & Passionate Mobile Developer  
-📱 Native Android Developer always learning and building 
+📱 Native Android Developer always learning and building  
 🌍 Based in India | Fuelled by curiosity, creativity, and a love for speed
 
 ---
