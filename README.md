@@ -1,14 +1,13 @@
 <h1 align="center"> 👋 Hey there, I’m Jenil Macwan </h1>
 
 🎓 Computer Engineering Student & Passionate Mobile Developer  
-📱 Native Android Developer currently expanding into **Flutter** & **Dart** to build cross-platform apps  
+📱 Native Android Developer always learning and building 
 🌍 Based in India | Fuelled by curiosity, creativity, and a love for speed
 
 ---
 
 ## 🚧 What I'm Working On
 
-- 🌱 **Learning Flutter:** Exploring Widget trees, State Management, and Dart fundamentals
 - 📱 **Android Development:** Building modern apps using **Kotlin**, Jetpack, and Material Design  
 - ☁️ **Backend Integration:** Connecting mobile apps with **Firebase** and REST APIs
 
@@ -55,7 +54,7 @@
 
 ## ✨ Goals
 
-- 🚀 Build my first full-scale **Flutter** application  
+- 🚀 Build my first full-scale application  
 - 📢 Share knowledge via open-source and educational content  
 - 🧪 Contribute to innovative tech that blends real-time data with mobile experiences
 
