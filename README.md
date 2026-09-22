@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hey there, I’m Jenil Macwan </h1>
 
-🎓 Computer Engineering Student & Passionate Mobile Developer  
+🎓 Computer Engineering Graduate & Passionate Mobile Developer  
 📱 Native Android Developer always learning and building  
 🌍 Based in India | Fuelled by curiosity, creativity, and a love for speed
 
@@ -31,7 +31,7 @@
 - 📱 **DOCSHARE – Student-Faculty File Sharing App** _A secure Android app for seamless document exchange between students and faculty._  
   → Developed using **Java**, **Firebase Auth/Firestore**, and **Gemini API** for AI summaries.
 
-- 🏁 **F1COMPANION – Formula 1 Enthusiast App** _A mobile application for tracking race stats and driver standings._  
+- 🏁 **PITWALL – Formula 1 Enthusiast App** _A mobile application for tracking race stats and driver standings._  
   → Focuses on **UI/UX design** and **REST API** data integration.
 
 ---
